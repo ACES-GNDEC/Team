@@ -1,27 +1,46 @@
 # Team
 
-<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture3.png" width="300" height="400">
-*Convener- Shubhendra Kumar*
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture3.png" width="225" height="300">
+Convener- Shubhendra Kumar
 
-![Co-Convener- Parul](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture4.jpg)  ![Co-convener- Khushbu Khanna](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture5.jpg)
 
-![Advisor- Jashandeep Kaur](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture6.png)
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture4.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture5.jpg" width="225" height="300">
+Co-Convener- Parul                                    Co-convener- Khushbu Khanna
 
-![Secretary- Manpreet Singh Bains](https://github.com/ACES-GNDEC/EVENTS/blob/main/WhatsApp%20Image%202020-09-28%20at%2012.15.05%20PM.jpeg)
 
-![Event Co-ordinator- Charanpreet Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture7.png)
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture6.png" width="225" height="300">
+Advisor- Jashandeep Kaur
 
-![P.R.O.- Tejas Walia](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture8.jpg)  ![P.R.O- Abhishek Thakur](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture9.jpg)
 
-![Database head- Ujjwaldeep Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture10.png)
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/WhatsApp%20Image%202020-09-28%20at%2012.15.05%20PM.jpeg" width="225" height="300">
+Secretary- Manpreet Singh Bains
 
-![I.T. head- Ketan Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture11.jpg)  ![I.T. head- Aman Mittal](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture15.png)
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture7.png" width="225" height="300">
+Event Co-ordinator- Charanpreet Singh
 
-![Promotion head- Japjyot Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture14.jpg)
 
-![Media Co-ordinator- Harshdeep Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture12.jpg)  ![Media Co-ordinator- Altmash Salman Mirza](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture13.jpg)
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture8.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture9.jpg" width="225" height="300">
+P.R.O.- Tejas Walia                   P.R.O- Abhishek Thakur
 
-![Head of executive- Amanpreet Kaur](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture17.png)  ![Head of executive- Minkle Motan](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture16.png)
+
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture10.png" width="225" height="300">
+Database head- Ujjwaldeep Singh
+
+
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture11.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture15.png" width="225" height="300">
+I.T. head- Ketan Singh                        I.T. head- Aman Mittal
+
+
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture14.jpg" width="225" height="300">
+Promotion head- Japjyot Singh
+
+
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture12.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture13.jpg" width="225" height="300">
+Media Co-ordinator- Harshdeep Singh             Media Co-ordinator- Altmash Salman Mirza
+
+
+<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture17.png" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture16.png" width="225" height="300">
+Head of executive- Amanpreet Kaur              Head of executive- Minkle Motan
 
 
 
