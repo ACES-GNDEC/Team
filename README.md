@@ -12,9 +12,9 @@
 
 ![Database head- Ujjwaldeep Singh]()
 
-![I.T. head- Ketan Singh]()  ![I.T. head- Aman Mittal}()
+![I.T. head- Ketan Singh]()  ![I.T. head- Aman Mittal]()
 
-![Promotion head- Japjyot Singh}()
+![Promotion head- Japjyot Singh]()
 
 ![Media Co-ordinator- Harshdeep Singh]()
 
