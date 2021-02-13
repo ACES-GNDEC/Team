@@ -1,31 +1,26 @@
 # Team
 
-![Convener- Shubhendra Kumar]()
+![Convener- Shubhendra Kumar](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture3.png)
 
-![Co-Convener- Parul]()  ![Co-convener- Khushbu Khanna]()
+![Co-Convener- Parul](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture4.jpg)  ![Co-convener- Khushbu Khanna](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture5.jpg)
 
-![Secretary- Manpreet Singh Bains]()
+![Advisor- Jashandeep Kaur](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture6.png)
 
-![Event Co-ordinator- Charanpreet Singh]()
+![Secretary- Manpreet Singh Bains](https://github.com/ACES-GNDEC/EVENTS/blob/main/WhatsApp%20Image%202020-09-28%20at%2012.15.05%20PM.jpeg)
 
-![P.R.O.- Tejas Walia]()  ![P.R.O- Abhishek Thakur]()
+![Event Co-ordinator- Charanpreet Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture7.png)
 
-![Database head- Ujjwaldeep Singh]()
+![P.R.O.- Tejas Walia](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture8.jpg)  ![P.R.O- Abhishek Thakur](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture9.jpg)
 
-![I.T. head- Ketan Singh]()  ![I.T. head- Aman Mittal]()
+![Database head- Ujjwaldeep Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture10.png)
 
-![Promotion head- Japjyot Singh]()
+![I.T. head- Ketan Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture11.jpg)  ![I.T. head- Aman Mittal](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture15.png)
 
-![Media Co-ordinator- Harshdeep Singh]()
+![Promotion head- Japjyot Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture14.jpg)
 
+![Media Co-ordinator- Harshdeep Singh](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture12.jpg)  ![Media Co-ordinator- Altmash Salman Mirza](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture13.jpg)
 
-![Media Co-ordinator- Altmash Salman Mirza]()
-
-
-![Head of executive- Amanpreet Kaur]()
-
-
-![Head of executive- Minkle Motan]()
+![Head of executive- Amanpreet Kaur](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture17.png)  ![Head of executive- Minkle Motan](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture16.png)
 
 
 
