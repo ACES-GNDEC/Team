@@ -13,34 +13,25 @@
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture6.png" width="225" height="300">
-## Advisor- Jashandeep Kaur
+##  Advisor- Jashandeep Kaur
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/WhatsApp%20Image%202020-09-28%20at%2012.15.05%20PM.jpeg" width="225" height="300">
-## Secretary- Manpreet Singh Bains
+##  Secretary- Manpreet Singh Bains
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture7.png" width="225" height="300">
-## Event Co-ordinator- Charanpreet Singh
-
-
-
+##  Event Co-ordinator- Charanpreet Singh
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture8.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture9.jpg" width="225" height="300">
 ## P.R.O.- Tejas Walia & Abhishek Thakur
 
-
-
-
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture10.png" width="225" height="300">
-## Database head- Ujjwaldeep Singh
-
-
-
+##  Database head- Ujjwaldeep Singh
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture11.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture15.png" width="225" height="300">
 ## I.T. head- Ketan Singh & Aman Mittal
