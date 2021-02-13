@@ -6,8 +6,6 @@
 
 
 
-
-
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture4.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture5.jpg" width="225" height="300">     
 ## Co-Convener- Parul & Khushbu Khanna
 
@@ -15,59 +13,55 @@
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture6.png" width="225" height="300">
-                              Advisor- Jashandeep Kaur
+## Advisor- Jashandeep Kaur
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/WhatsApp%20Image%202020-09-28%20at%2012.15.05%20PM.jpeg" width="225" height="300">
-Secretary- Manpreet Singh Bains
+## Secretary- Manpreet Singh Bains
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture7.png" width="225" height="300">
-Event Co-ordinator- Charanpreet Singh
+## Event Co-ordinator- Charanpreet Singh
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture8.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture9.jpg" width="225" height="300">
-
-P.R.O.- Tejas Walia                   P.R.O- Abhishek Thakur
+## P.R.O.- Tejas Walia & Abhishek Thakur
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture10.png" width="225" height="300">
-Database head- Ujjwaldeep Singh
+## Database head- Ujjwaldeep Singh
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture11.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture15.png" width="225" height="300">
-
-I.T. head- Ketan Singh                        I.T. head- Aman Mittal
+## I.T. head- Ketan Singh & Aman Mittal
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture14.jpg" width="225" height="300">
-Promotion head- Japjyot Singh
+## Promotion head- Japjyot Singh
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture12.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture13.jpg" width="225" height="300">
-
-Media Co-ordinator- Harshdeep Singh             Media Co-ordinator- Altmash Salman Mirza
+## Media Co-ordinator- Harshdeep Singh & Altmash Salman Mirza
 
 
 
 
 <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture17.png" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture16.png" width="225" height="300">
-
-Head of executive- Amanpreet Kaur              Head of executive- Minkle Motan
+## Head of executive- Amanpreet Kaur & Minkle Motan
 
 
 
