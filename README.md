@@ -1,6 +1,7 @@
 # Team
 
-![Convener- Shubhendra Kumar](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture3.png)*Convener- Shubhendra Kumar*
+![Convener- Shubhendra Kumar](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture3.png)
+*Convener- Shubhendra Kumar*
 
 ![Co-Convener- Parul](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture4.jpg)  ![Co-convener- Khushbu Khanna](https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture5.jpg)
 
