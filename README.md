@@ -28,14 +28,14 @@
 <img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture11.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture15.png" width="225" height="300">
 ## I.T. head- Ketan Singh & Aman Mittal
 
-<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture14.jpg" width="225" height="300">
+<img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture14.jpg" width="225" height="300">
 
 ## Promotion head- Japjyot Singh
 
-<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture12.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture13.jpg" width="225" height="300">
+<img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture12.jpg" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture13.jpg" width="225" height="300">
 ## Media Co-ordinator- Harshdeep Singh & Altmash Salman Mirza
 
-<img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture17.png" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/EVENTS/blob/main/Picture16.png" width="225" height="300">
+<img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture17.png" width="225" height="300">  <img src="https://github.com/ACES-GNDEC/UPLOADS/blob/main/Picture16.png" width="225" height="300">
 ## Head of executive- Amanpreet Kaur & Minkle Motan
 
 
